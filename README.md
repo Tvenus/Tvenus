@@ -7,7 +7,7 @@
 ### Languages & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,ts,css,sass,php,py,react,redux,nextjs,nuxtjs,angular,vue,nodejs,django,laravel,wordpress,bootstrap,tailwind,jquery,mongodb,mysql,postgres,sqlite,vscode,androidstudio,git,github,docker,ubuntu,vercel,netlify,aws,rust,solidity" />
+    <img src="https://skillicons.dev/icons?i=rust,solidity,go, solana, js,ts, py,react,redux,nextjs,nuxtjs,angular,vue,nodejs,django,mongodb,mysql,postgres,sqlite,docker,ubuntu,netlify,aws," />
   </a>
 </p>
 
