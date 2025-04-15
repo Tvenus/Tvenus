@@ -7,7 +7,6 @@
     I'm a senior Blockchain Developer and PM. I thrive on working with innovative projects and excel in leading teams to achieve outstanding results.
   </p>
   
-  <img alt='coding' align='right' height='200' src="./assets/self.webp" />
 
   <ul>
   <li>💡 <strong>Blockchain Master</strong>: Deep expertise in smart contracts, DeFi, NFTs, and scalable blockchain solutions.</li>
