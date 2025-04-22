@@ -22,4 +22,4 @@ If you're working on something that demands expertise, execution, and vision-let
     <img src="https://skillicons.dev/icons?i=c,java,rust,solidity,markdown,go,remix,js,ts,py,react,redux,nextjs,nuxtjs,vue,nodejs,ruby,mongodb,mysql,postgres,docker,ubuntu,aws" width="2000" heihgt="2000"/>
   </a>
 </p>
-15
+
